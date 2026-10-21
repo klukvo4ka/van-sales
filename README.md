@@ -22,7 +22,7 @@ Built as a commissioned project for a distribution company; client details have 
 
 ## Project history
 
-The app was built for a client in a private repository between <April 2026> and <August 2026>.
+The app was built for a client in a private repository between April 2026 and August 2026.
 The client's plans changed before rollout, so it was never deployed in production.
 This public repository is a cleaned-up copy: client details and credentials were removed,
 which is why the history starts with a single initial commit.
