@@ -4,13 +4,13 @@ An offline-first Flutter app for van sales drivers and the back office of a smal
 
 ## Screenshots
 
-| Driver: customers | Driver: new invoice | Driver: truck stock |
-|---|---|---|
-| ![Customers](docs/screenshots/driver-customers.png) | ![New invoice](docs/screenshots/driver-new-invoice.png) | ![Truck stock](docs/screenshots/driver-truck-stock.png) |
+| Route of the day | Customers | New invoice | Invoice created |
+|---|---|---|---|
+| ![Route of the day](docs/screenshots/driver-route.png) | ![Customers](docs/screenshots/driver-customers.png) | ![New invoice](docs/screenshots/driver-new-invoice.png) | ![Invoice created](docs/screenshots/driver-invoice-created.png) |
 
-| Office: dashboard | Office: live map | Dari (RTL) |
-|---|---|---|
-| ![Office dashboard](docs/screenshots/office-dashboard.png) | ![Live map](docs/screenshots/office-live-map.png) | ![Dari](docs/screenshots/driver-customers-dari.png) |
+| Receipt PDF | Truck stock | Office dashboard | Office reports |
+|---|---|---|---|
+| ![Receipt PDF](docs/screenshots/driver-receipt-pdf.png) | ![Truck stock](docs/screenshots/driver-truck-stock.png) | ![Office dashboard](docs/screenshots/office-dashboard.png) | ![Office reports](docs/screenshots/office-reports.png) |
 
 ## Problem and context
 
