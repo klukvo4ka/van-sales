@@ -1,0 +1,1003 @@
+{
+  "@@locale": "en",
+  "acceptPayment": "Accept Payment",
+  "account": "Account",
+  "active": "Active",
+  "activeDrivers": "Active drivers",
+  "addCustomer": "Add Customer",
+  "addItem": "Add item",
+  "addPayment": "Add payment",
+  "addPhoto": "Add photo",
+  "addProduct": "Add Product",
+  "address": "Address",
+  "admin": "Admin",
+  "afnFromOn": "{amount} AFN from {fullName} on {date}",
+  "@afnFromOn": {
+    "placeholders": {
+      "amount": {
+        "type": "Object"
+      },
+      "fullName": {
+        "type": "Object"
+      },
+      "date": {
+        "type": "Object"
+      }
+    }
+  },
+  "aging": "Aging",
+  "aging0to7": "0–7d",
+  "aging31to60": "31–60d",
+  "aging60plus": "60d+",
+  "aging8to30": "8–30d",
+  "all": "All",
+  "allDrivers": "All drivers",
+  "allTime": "All time",
+  "amount": "Amount",
+  "amountAfn": "Amount (AFN)",
+  "appTitle": "Van Sales",
+  "atLeast6Characters": "At least 6 characters",
+  "avgInvoiceAfn": "Avg invoice (AFN)",
+  "balance": "Balance",
+  "booksBalance": "Books balance",
+  "bucket": "Bucket",
+  "bucket2": "Bucket",
+  "byAmount": "By amount",
+  "byMethod": "By method",
+  "byOverdue": "By overdue",
+  "camera": "Camera",
+  "cameraGalleryUnavailable": "Camera/gallery unavailable",
+  "cancel": "Cancel",
+  "cash": "Cash",
+  "cashCollected": "Cash collected",
+  "cashCollectedAfn": "Cash collected (AFN)",
+  "cashCollectedMinusHandedIn": "Cash collected {collected} − handed in {handedIn}",
+  "@cashCollectedMinusHandedIn": {
+    "placeholders": {
+      "collected": {
+        "type": "Object"
+      },
+      "handedIn": {
+        "type": "Object"
+      }
+    }
+  },
+  "cashHandedIn": "Cash handed in",
+  "cashHandedInAfn": "Cash handed in (AFN)",
+  "cashSaleAfn": "Cash sale {total} AFN",
+  "@cashSaleAfn": {
+    "placeholders": {
+      "total": {
+        "type": "Object"
+      }
+    }
+  },
+  "cashSales": "Cash sales",
+  "cashSalesAfn": "Cash sales (AFN) ({cashCount})",
+  "@cashSalesAfn": {
+    "placeholders": {
+      "cashCount": {
+        "type": "Object"
+      }
+    }
+  },
+  "cashSalesCount": "Cash sales ({cashCount})",
+  "@cashSalesCount": {
+    "placeholders": {
+      "cashCount": {
+        "type": "Object"
+      }
+    }
+  },
+  "cashTransfer": "Cash {cashCollected} — Transfer {transferCollected}",
+  "@cashTransfer": {
+    "placeholders": {
+      "cashCollected": {
+        "type": "Object"
+      },
+      "transferCollected": {
+        "type": "Object"
+      }
+    }
+  },
+  "category": "Category",
+  "changePassword": "Change Password",
+  "chooseProduct": "Choose product",
+  "collected": "Collected",
+  "collected2": "Collected",
+  "collected3": "Collected",
+  "collectedAfn": "Collected (AFN)",
+  "collectedToday": "Collected today",
+  "company": "Company",
+  "companyReport": "Company report",
+  "contactOfficeToAssignTruck": "Contact your office to assign a truck to your account.",
+  "continueAction": "Continue",
+  "couldNotReachServer": "Could not reach server",
+  "credit": "Credit",
+  "creditLimitAfn": "Credit limit (AFN)",
+  "creditLimitExceededConfirm": "New balance {newBalance} AFN exceeds the limit of {creditLimit} AFN. Continue?",
+  "@creditLimitExceededConfirm": {
+    "placeholders": {
+      "newBalance": {
+        "type": "Object"
+      },
+      "creditLimit": {
+        "type": "Object"
+      }
+    }
+  },
+  "creditLimitLabel": "limit {creditLimit}",
+  "@creditLimitLabel": {
+    "placeholders": {
+      "creditLimit": {
+        "type": "Object"
+      }
+    }
+  },
+  "creditSaleAfn": "Credit sale {total} AFN",
+  "@creditSaleAfn": {
+    "placeholders": {
+      "total": {
+        "type": "Object"
+      }
+    }
+  },
+  "creditSales": "Credit sales",
+  "creditSalesAfn": "Credit sales (AFN) ({creditCount})",
+  "@creditSalesAfn": {
+    "placeholders": {
+      "creditCount": {
+        "type": "Object"
+      }
+    }
+  },
+  "creditSalesCount": "Credit sales ({creditCount})",
+  "@creditSalesCount": {
+    "placeholders": {
+      "creditCount": {
+        "type": "Object"
+      }
+    }
+  },
+  "currentPassword": "Current password",
+  "custom": "Custom",
+  "customer": "Customer",
+  "customerAdded": "Customer added",
+  "customerCount": "{filteredCount} customers",
+  "@customerCount": {
+    "placeholders": {
+      "filteredCount": {
+        "type": "Object"
+      }
+    }
+  },
+  "customerDeleted": "Customer deleted",
+  "customerSaved": "Customer saved",
+  "customers": "Customers",
+  "customersServed": "Customers served",
+  "customersServedCount": "{customersServed} customers served",
+  "@customersServedCount": {
+    "placeholders": {
+      "customersServed": {
+        "type": "Object"
+      }
+    }
+  },
+  "customersToday": "Customers today",
+  "daily": "Daily",
+  "dashboard": "Dashboard",
+  "date": "Date",
+  "dateLabel": "Date: {invoiceDate}",
+  "@dateLabel": {
+    "placeholders": {
+      "invoiceDate": {
+        "type": "Object"
+      }
+    }
+  },
+  "dateRange": "{from} — {to}",
+  "@dateRange": {
+    "placeholders": {
+      "from": {
+        "type": "Object"
+      },
+      "to": {
+        "type": "Object"
+      }
+    }
+  },
+  "dateWithLabel": "{date}",
+  "@dateWithLabel": {
+    "placeholders": {
+      "date": {
+        "type": "Object"
+      }
+    }
+  },
+  "day": "Day",
+  "dayReport": "Day report {date}",
+  "@dayReport": {
+    "placeholders": {
+      "date": {
+        "type": "Object"
+      }
+    }
+  },
+  "daySummary": "Day Summary",
+  "days": "Days",
+  "delete": "Delete",
+  "done": "Done",
+  "driver": "Driver",
+  "driverLabel": "Driver: {driverName}",
+  "@driverLabel": {
+    "placeholders": {
+      "driverName": {
+        "type": "Object"
+      }
+    }
+  },
+  "driverLiability": "Driver liability",
+  "driverSales": "{driverId} — Sales",
+  "@driverSales": {
+    "placeholders": {
+      "driverId": {
+        "type": "Object"
+      }
+    }
+  },
+  "driverSalesToday": "{name} — Sales",
+  "@driverSalesToday": {
+    "placeholders": {
+      "name": {
+        "type": "Object"
+      }
+    }
+  },
+  "driverWithId": "Driver {id}",
+  "@driverWithId": {
+    "placeholders": {
+      "id": {
+        "type": "Object"
+      }
+    }
+  },
+  "drivers": "Drivers",
+  "driversOnMap": "{visiblePinsCount} drivers on map",
+  "@driversOnMap": {
+    "placeholders": {
+      "visiblePinsCount": {
+        "type": "Object"
+      }
+    }
+  },
+  "due": "Due",
+  "edit": "Edit",
+  "editCustomer": "Edit Customer",
+  "editProduct": "Edit Product",
+  "editProfile": "Edit Profile",
+  "email": "Email",
+  "enterYourEmail": "Enter your email",
+  "enterYourPassword": "Enter your password",
+  "errorWithDetails": "Error: {error}",
+  "@errorWithDetails": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "excel": "Excel",
+  "excelSaved": "Excel saved — {path}",
+  "@excelSaved": {
+    "placeholders": {
+      "path": {
+        "type": "Object"
+      }
+    }
+  },
+  "exportFailed": "Export failed",
+  "fullName": "Full name",
+  "gallery": "Gallery",
+  "generatedAt": "Generated: {now}",
+  "@generatedAt": {
+    "placeholders": {
+      "now": {
+        "type": "Object"
+      }
+    }
+  },
+  "goods": "Goods",
+  "goodsIssuedValue": "Goods issued value",
+  "goodsSoldValue": "Goods sold value",
+  "goodsTaken": "Goods taken",
+  "hAgo": "{inHours} h ago",
+  "@hAgo": {
+    "placeholders": {
+      "inHours": {
+        "type": "Object"
+      }
+    }
+  },
+  "handoverRecordedAfn": "Handover recorded {amount} AFN",
+  "@handoverRecordedAfn": {
+    "placeholders": {
+      "amount": {
+        "type": "Object"
+      }
+    }
+  },
+  "hasDebt": "Has debt",
+  "history": "History",
+  "historyFor": "History — {name}",
+  "@historyFor": {
+    "placeholders": {
+      "name": {
+        "type": "Object"
+      }
+    }
+  },
+  "home": "Home",
+  "inactive": "Inactive",
+  "info": "Info",
+  "initial": "Initial",
+  "initialAndSold": "Initial {initial} · Sold {sold} {unit}",
+  "@initialAndSold": {
+    "placeholders": {
+      "initial": {
+        "type": "Object"
+      },
+      "sold": {
+        "type": "Object"
+      },
+      "unit": {
+        "type": "Object"
+      }
+    }
+  },
+  "initialStockSaved": "Initial stock saved",
+  "inside": "Inside",
+  "invalidEmail": "Invalid email",
+  "invalidPhoneNumber": "Invalid phone number",
+  "invalidPrice": "Invalid price",
+  "inventory": "Inventory",
+  "inventoryByDriver": "Inventory by driver",
+  "inventoryByDriverTitle": "Inventory by driver",
+  "invoice": "Invoice",
+  "invoiceCount": "{invoiceCount} invoices",
+  "@invoiceCount": {
+    "placeholders": {
+      "invoiceCount": {
+        "type": "Object"
+      }
+    }
+  },
+  "invoiceCreated": "Invoice created",
+  "invoicePaidAfn": "Invoice paid {amount} AFN",
+  "@invoicePaidAfn": {
+    "placeholders": {
+      "amount": {
+        "type": "Object"
+      }
+    }
+  },
+  "invoicePhoto": "Invoice photo",
+  "invoiceTitleWithNumber": "Invoice {number}",
+  "@invoiceTitleWithNumber": {
+    "placeholders": {
+      "number": {
+        "type": "Object"
+      }
+    }
+  },
+  "invoices": "Invoices",
+  "invoicesAvg": "{invoiceCount} invoices — avg {avgInvoice}",
+  "@invoicesAvg": {
+    "placeholders": {
+      "invoiceCount": {
+        "type": "Object"
+      },
+      "avgInvoice": {
+        "type": "Object"
+      }
+    }
+  },
+  "issuedValue": "Issued value",
+  "items": "Items",
+  "itemsQty": "Items: {linesCount} — Qty: {totalQty}",
+  "@itemsQty": {
+    "placeholders": {
+      "linesCount": {
+        "type": "Object"
+      },
+      "totalQty": {
+        "type": "Object"
+      }
+    }
+  },
+  "justNow": "just now",
+  "justNow2": "just now",
+  "language": "Language",
+  "languageDari": "دری",
+  "languageEnglish": "English",
+  "last": "last",
+  "lastSyncAt": "Last sync: {hour}:{minute}",
+  "@lastSyncAt": {
+    "placeholders": {
+      "hour": {
+        "type": "Object"
+      },
+      "minute": {
+        "type": "Object"
+      }
+    }
+  },
+  "leftLow": "Left {remaining}",
+  "@leftLow": {
+    "placeholders": {
+      "remaining": {
+        "type": "Object"
+      }
+    }
+  },
+  "leftRemaining": "Left {remaining}",
+  "@leftRemaining": {
+    "placeholders": {
+      "remaining": {
+        "type": "Object"
+      }
+    }
+  },
+  "leftWithUnit": "Left {remaining} {unit}",
+  "@leftWithUnit": {
+    "placeholders": {
+      "remaining": {
+        "type": "Object"
+      },
+      "unit": {
+        "type": "Object"
+      }
+    }
+  },
+  "list": "List",
+  "liveMap": "Live Map",
+  "locationChannelName": "Driver location",
+  "locationNotificationText": "Sharing location with the office while you work.",
+  "locationNotificationTitle": "Van Sales Demo · Driver location",
+  "locationSharingOff": "Location sharing off",
+  "locationSharingOn": "Location sharing on",
+  "login": "Login",
+  "loginFailed": "Login failed. Please try again.",
+  "logout": "Logout",
+  "manageProducts": "Manage Products",
+  "map": "Map",
+  "method": "Method",
+  "metric": "Metric",
+  "minAgo": "{inMinutes} min ago",
+  "@minAgo": {
+    "placeholders": {
+      "inMinutes": {
+        "type": "Object"
+      }
+    }
+  },
+  "mismatchAfn": "Mismatch Δ {sanityDelta} AFN",
+  "@mismatchAfn": {
+    "placeholders": {
+      "sanityDelta": {
+        "type": "Object"
+      }
+    }
+  },
+  "money": "Money",
+  "month": "Month",
+  "moreThanOwed": "More than owed",
+  "mustBe0OrMore": "Must be 0 or more",
+  "mustBeBetweenZeroAndTotal": "Must be more than 0 and less than {total}",
+  "@mustBeBetweenZeroAndTotal": {
+    "placeholders": {
+      "total": {
+        "type": "Object"
+      }
+    }
+  },
+  "mustBeMoreThanZero": "Must be more than 0",
+  "myStock": "My Stock",
+  "myStock2": "My Stock",
+  "name": "Name",
+  "nameCannotBeEmpty": "Name cannot be empty",
+  "nameDari": "Name (Dari)",
+  "nameEn": "Name (EN)",
+  "netOwedToCompany": "Net owed to company",
+  "newBalance": "New balance",
+  "newBalanceAfn": "New balance {newBalance} AFN / {limitText}",
+  "@newBalanceAfn": {
+    "placeholders": {
+      "newBalance": {
+        "type": "Object"
+      },
+      "limitText": {
+        "type": "Object"
+      }
+    }
+  },
+  "newDebt": "New debt",
+  "newDebtAfn": "New debt (AFN)",
+  "newDebtToday": "New debt today",
+  "newInvoice": "New Invoice",
+  "newInvoiceNotification": "New invoice",
+  "newPassword": "New password",
+  "newPasswordAtLeast6": "New password: at least 6 characters",
+  "next": "Next",
+  "noActiveProducts2": "No active products",
+  "noActiveSession": "No active session",
+  "noActiveTrucks": "No active trucks",
+  "noActivityInThisPeriod": "No activity in this period",
+  "noActivityInThisRange": "No activity in this range",
+  "noActivityToday": "No activity today",
+  "noCategory": "No category",
+  "noContactInfo": "No contact info",
+  "noCustomersMatch": "No customers match your search or filter",
+  "noCustomersOnYourRoute": "No customers on your route",
+  "noCustomersYet": "No customers yet",
+  "noData": "No data",
+  "noDriver": "No driver",
+  "noDriverAssigned": "No driver assigned",
+  "noDriverAssigned2": "No driver assigned",
+  "noDrivers": "No drivers",
+  "noDriversYet": "No drivers yet",
+  "noHistoryYet": "No history yet",
+  "noInvoicesYet": "No invoices yet",
+  "noItems": "No items",
+  "noLimit": "no limit",
+  "noLiveDriverLocations": "No live driver locations",
+  "noMatches": "No matches",
+  "noNotifications": "No notifications",
+  "noOpenInvoice": "No open invoice",
+  "noProductsAvailable": "No products available",
+  "noProductsFound": "No products found",
+  "noProductsYet": "No products yet",
+  "noReceivablesAllSettled": "No receivables — all settled",
+  "noSalesInThisRange": "No sales in this range",
+  "noStockOrSalesFor": "No stock or sales for this day",
+  "noTruckAssigned2": "No Truck Assigned",
+  "noTrucks": "No trucks",
+  "notConfiguredOnThisDevice": "Not configured on this device",
+  "notSyncedYet": "Not synced yet",
+  "notes": "Notes",
+  "nothingHere": "Nothing here",
+  "notifications": "Notifications",
+  "notificationsOff": "Notifications off",
+  "notificationsOn": "Notifications on",
+  "numberLabel": "Number",
+  "office": "Office",
+  "officeSeesYourPositionOn": "Office sees your position on the map while you work",
+  "offlineLiveMapUnavailable": "Offline — live map unavailable",
+  "offlineShowingLocalData": "Offline — showing local data",
+  "oldest": "Oldest",
+  "oldestUnpaidDays": "Oldest {date} — {days}d",
+  "@oldestUnpaidDays": {
+    "placeholders": {
+      "date": {
+        "type": "Object"
+      },
+      "days": {
+        "type": "Object"
+      }
+    }
+  },
+  "onlyLeft": "Only {remaining} {unit} left",
+  "@onlyLeft": {
+    "placeholders": {
+      "remaining": {
+        "type": "Object"
+      },
+      "unit": {
+        "type": "Object"
+      }
+    }
+  },
+  "open": "Open",
+  "openInvoiceCount": "{unpaidCount} open invoices",
+  "@openInvoiceCount": {
+    "placeholders": {
+      "unpaidCount": {
+        "type": "Object"
+      }
+    }
+  },
+  "orderSavedLocallyOffline": "Order saved locally (offline)",
+  "outOfStock": "0 left",
+  "outside": "Outside",
+  "outstanding": "Outstanding",
+  "outstandingAfn": "Outstanding (AFN)",
+  "outstandingAfn2": "Outstanding (AFN)",
+  "overCreditLimit": "Over credit limit",
+  "oversold": "Oversold",
+  "oversold2": "Oversold",
+  "owed": "Owed",
+  "owedAfn": "Owed (AFN)",
+  "owes": "Owes",
+  "owesAfn": "Owes {owes} AFN",
+  "@owesAfn": {
+    "placeholders": {
+      "owes": {
+        "type": "Object"
+      }
+    }
+  },
+  "paid": "Paid",
+  "paidAfnNow": "Paid {paidAmount} AFN now",
+  "@paidAfnNow": {
+    "placeholders": {
+      "paidAmount": {
+        "type": "Object"
+      }
+    }
+  },
+  "paidInFullNow": "Paid in full now",
+  "paidNowAfn": "Paid now (AFN)",
+  "paidShort": "Paid",
+  "partialAfn": "Partial (AFN) ({partialCount})",
+  "@partialAfn": {
+    "placeholders": {
+      "partialCount": {
+        "type": "Object"
+      }
+    }
+  },
+  "partialCount": "Partial ({partialCount})",
+  "@partialCount": {
+    "placeholders": {
+      "partialCount": {
+        "type": "Object"
+      }
+    }
+  },
+  "partialLabel": "Partial",
+  "partialPaymentAfn": "Partial payment {paidNow} AFN",
+  "@partialPaymentAfn": {
+    "placeholders": {
+      "paidNow": {
+        "type": "Object"
+      }
+    }
+  },
+  "partialPaymentAfn2": "Partial payment {amount} AFN",
+  "@partialPaymentAfn2": {
+    "placeholders": {
+      "amount": {
+        "type": "Object"
+      }
+    }
+  },
+  "password": "Password",
+  "passwordChanged": "Password changed",
+  "payFull": "Pay full",
+  "payment": "Payment",
+  "paymentReceivedAfn": "Payment received {amount} AFN",
+  "@paymentReceivedAfn": {
+    "placeholders": {
+      "amount": {
+        "type": "Object"
+      }
+    }
+  },
+  "pdfLabel": "PDF",
+  "pdfReport": "PDF report",
+  "phone": "Phone",
+  "photo": "Photo",
+  "photoAttached": "Photo attached",
+  "photoUnavailable": "Photo unavailable",
+  "plate": "Plate",
+  "prevCollectedAfn": "Prev collected (AFN)",
+  "prevSoldAfn": "Prev sold (AFN)",
+  "previous": "Previous",
+  "price": "Price",
+  "priceAfn": "Price (AFN)",
+  "privacy": "Privacy",
+  "product": "Product",
+  "productSaved": "Product saved",
+  "products": "Products",
+  "productsUnits": "{rowsCount} products — {totalQuantity} units",
+  "@productsUnits": {
+    "placeholders": {
+      "rowsCount": {
+        "type": "Object"
+      },
+      "totalQuantity": {
+        "type": "Object"
+      }
+    }
+  },
+  "profile": "Profile",
+  "profileSaved": "Profile saved",
+  "pushNotifications": "Push notifications",
+  "qty": "Qty",
+  "qtyWithUnit": "Qty ({unit})",
+  "@qtyWithUnit": {
+    "placeholders": {
+      "unit": {
+        "type": "Object"
+      }
+    }
+  },
+  "quantityMustBeMoreThan": "Quantity must be more than 0",
+  "rangeWithLabel": "{rangeLabel}",
+  "@rangeWithLabel": {
+    "placeholders": {
+      "rangeLabel": {
+        "type": "Object"
+      }
+    }
+  },
+  "receipt": "Receipt",
+  "receiptTitleWithNumber": "Receipt {receiptNumber}",
+  "@receiptTitleWithNumber": {
+    "placeholders": {
+      "receiptNumber": {
+        "type": "Object"
+      }
+    }
+  },
+  "receivables": "Receivables",
+  "receivablesShort": "Receivables",
+  "receive": "Receive",
+  "reconciliation": "Reconciliation",
+  "record": "Record",
+  "recordCashHandover": "Record cash handover",
+  "recordCashHandoverQuestion": "Record cash handover?",
+  "refresh": "Refresh",
+  "remainderAfnOnCredit": "Remainder {paidNow} AFN on credit",
+  "@remainderAfnOnCredit": {
+    "placeholders": {
+      "paidNow": {
+        "type": "Object"
+      }
+    }
+  },
+  "remaining": "Remaining",
+  "remainingAfn": "Remaining {owes} AFN",
+  "@remainingAfn": {
+    "placeholders": {
+      "owes": {
+        "type": "Object"
+      }
+    }
+  },
+  "remainingStockValue": "Remaining stock value",
+  "remainingValue": "Remaining value",
+  "remove": "Remove",
+  "removePhoto": "Remove photo",
+  "replace": "Replace",
+  "reports": "Reports",
+  "required": "Required",
+  "revenueAfn": "Revenue (AFN)",
+  "route": "Route",
+  "routeOfTheDay": "Route of the day",
+  "routeZone": "Route / Zone",
+  "sales": "Sales",
+  "salesByDriver": "Sales by driver",
+  "salesByDriverTitle": "Sales by driver",
+  "salesReport": "Sales report",
+  "sanityDelta": "Sanity Δ",
+  "save": "Save",
+  "saveFailed": "Save failed",
+  "savedLocallyOffline": "Saved locally (offline)",
+  "savedLocallyServerDenied": "Saved locally (server update not permitted)",
+  "savedLocallyServerError": "Saved locally; server error",
+  "searchCustomer": "Search customer",
+  "searchNameOrSku": "Search name or SKU",
+  "searchNamePhoneOrAddress": "Search name, phone, or address",
+  "settled": "Settled",
+  "shareMyLocation": "Share my location",
+  "signInToContinue": "Sign in to continue",
+  "skus": "SKUs",
+  "sold": "Sold",
+  "soldAfn": "Sold (AFN)",
+  "soldCollShort": "Sold {sold} — Coll. {collected}",
+  "@soldCollShort": {
+    "placeholders": {
+      "sold": {
+        "type": "Object"
+      },
+      "collected": {
+        "type": "Object"
+      }
+    }
+  },
+  "soldCollected": "Sold {sold} — Collected {collected}",
+  "@soldCollected": {
+    "placeholders": {
+      "sold": {
+        "type": "Object"
+      },
+      "collected": {
+        "type": "Object"
+      }
+    }
+  },
+  "soldCollectedInv": "Sold {sold} — Collected {collected} — {invoiceCount} inv",
+  "@soldCollectedInv": {
+    "placeholders": {
+      "sold": {
+        "type": "Object"
+      },
+      "collected": {
+        "type": "Object"
+      },
+      "invoiceCount": {
+        "type": "Object"
+      }
+    }
+  },
+  "soldToday": "Sold today",
+  "soldTodayAfn": "Sold today {soldToday} AFN",
+  "@soldTodayAfn": {
+    "placeholders": {
+      "soldToday": {
+        "type": "Object"
+      }
+    }
+  },
+  "soldTodayRemaining": "Sold today {sold} — Remaining {remaining}",
+  "@soldTodayRemaining": {
+    "placeholders": {
+      "sold": {
+        "type": "Object"
+      },
+      "remaining": {
+        "type": "Object"
+      }
+    }
+  },
+  "soldUnitsOfInitial": "Sold {soldUnits} / {initialUnits} units",
+  "@soldUnitsOfInitial": {
+    "placeholders": {
+      "soldUnits": {
+        "type": "Object"
+      },
+      "initialUnits": {
+        "type": "Object"
+      }
+    }
+  },
+  "soldValue": "Sold value",
+  "soldVsCollected": "Sold vs collected",
+  "soldVsCollectedCheck": "Sold {sold} ≈ collected {collected} + receivables {receivables}",
+  "@soldVsCollectedCheck": {
+    "placeholders": {
+      "sold": {
+        "type": "Object"
+      },
+      "collected": {
+        "type": "Object"
+      },
+      "receivables": {
+        "type": "Object"
+      }
+    }
+  },
+  "somethingWentWrong": "Something went wrong: {error}",
+  "@somethingWentWrong": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "stock": "Stock",
+  "stockNotSetYet": "Office hasn't set your stock yet",
+  "stockUpdated": "Stock updated",
+  "stockValueLeft": "Stock value left",
+  "storeInside": "Store — Inside",
+  "storeOutside": "Store — Outside",
+  "summary": "Summary",
+  "syncNow": "Sync now",
+  "syncing": "Syncing…",
+  "tapToAddYourFirst": "Tap + to add your first customer",
+  "thankYou": "Thank you",
+  "thisMonth": "This month",
+  "thisWeek": "This week",
+  "today": "Today",
+  "todayByDriver": "Today by driver",
+  "topCustomersOwed": "Top customers (owed)",
+  "topCustomersSold": "Top customers (sold)",
+  "topDriversCollected": "Top drivers (collected)",
+  "topDriversSold": "Top drivers (sold)",
+  "topProducts": "Top products",
+  "total": "Total",
+  "totalAfn": "Total: {draftTotal} AFN",
+  "@totalAfn": {
+    "placeholders": {
+      "draftTotal": {
+        "type": "Object"
+      }
+    }
+  },
+  "totalCollected": "Total collected",
+  "totalCollectedAfn": "Total collected (AFN)",
+  "totalOutstanding": "Total outstanding",
+  "totalOwedToYouAfn": "Total owed to you {totalOwed} AFN",
+  "@totalOwedToYouAfn": {
+    "placeholders": {
+      "totalOwed": {
+        "type": "Object"
+      }
+    }
+  },
+  "totalSkus": "Total ({skuCount} SKUs)",
+  "@totalSkus": {
+    "placeholders": {
+      "skuCount": {
+        "type": "Object"
+      }
+    }
+  },
+  "totalSold": "Total sold",
+  "totalSoldAfn": "Total sold (AFN)",
+  "transfer": "Transfer",
+  "transferCollected": "Transfer collected",
+  "transferCollectedAfn": "Transfer collected (AFN)",
+  "trend": "Trend",
+  "truckActivated": "Truck activated",
+  "truckCount": "{trucksCount} trucks",
+  "@truckCount": {
+    "placeholders": {
+      "trucksCount": {
+        "type": "Object"
+      }
+    }
+  },
+  "truckDeactivated": "Truck deactivated",
+  "trucks": "Trucks",
+  "unassigned": "Unassigned",
+  "unassigned2": "Unassigned",
+  "unit": "Unit",
+  "unitsRemaining": "Units remaining",
+  "unitsSold": "Units sold",
+  "unknown": "Unknown",
+  "unpaid": "Unpaid",
+  "unsyncedCount": "{dirty} unsynced",
+  "@unsyncedCount": {
+    "placeholders": {
+      "dirty": {
+        "type": "Object"
+      }
+    }
+  },
+  "update": "Update",
+  "updated": "Updated {age}",
+  "@updated": {
+    "placeholders": {
+      "age": {
+        "type": "Object"
+      }
+    }
+  },
+  "value": "Value",
+  "value2": "Value",
+  "valueAfn": "Value (AFN)",
+  "valueAfn2": "Value (AFN)",
+  "visited": "Visited",
+  "visitedProgress": "Visited {visited} / {total}",
+  "@visitedProgress": {
+    "placeholders": {
+      "visited": {
+        "type": "Object"
+      },
+      "total": {
+        "type": "Object"
+      }
+    }
+  },
+  "week": "Week",
+  "wholeNumberOnly": "Whole number only",
+  "withOfflineNote": "{message} (offline)",
+  "@withOfflineNote": {
+    "placeholders": {
+      "message": {
+        "type": "Object"
+      }
+    }
+  }
+}
